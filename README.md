@@ -1,3 +1,3 @@
-# xbman.github.io
+# xbman.cu.cc
 
-htpp://xbman.cu.cc
+xbman's html
