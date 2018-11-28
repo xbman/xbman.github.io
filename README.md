@@ -1,4 +1,4 @@
-# xbman.usa.cc
+# xbman.github.io
 
 xbman's html
 
